@@ -1,0 +1,8 @@
+You might be wondering, "Why have a safety lever at all?"
+The short answer is: "for safety, duh."
+The long answer is something like:
+	If there are any bugs in the fissctl program, there could be a heat leak.
+	This is like a memory leak in the sense that over time, some gained
+	heat is not accounted for. This leads to a rise in heat that over time causes a meltdown. If a reactor operator notices that the
+	reactor is leaking heat, they can hit the safety lever and let the heat dissipate, avoiding catastrophe.
+	Another reason to have it is to launch fissctl exactly when you want as to not waste any fuel.
