@@ -10,23 +10,13 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "VBuck Pack",
+  "name": "Normie Pack",
   "version": "0.1.0",
   "author": "DeltaNedas",
   "files": [
     {
       "projectID": 228404,
       "fileID": 2646432,
-      "required": true
-    },
-    {
-      "projectID": 223794,
-      "fileID": 2652453,
-      "required": true
-    },
-    {
-      "projectID": 225194,
-      "fileID": 2491032,
       "required": true
     },
     {
@@ -50,16 +40,6 @@
       "required": true
     },
     {
-      "projectID": 246996,
-      "fileID": 2651700,
-      "required": true
-    },
-    {
-      "projectID": 240967,
-      "fileID": 2618175,
-      "required": true
-    },
-    {
       "projectID": 227083,
       "fileID": 2518667,
       "required": true
@@ -80,18 +60,8 @@
       "required": true
     },
     {
-      "projectID": 228525,
-      "fileID": 2643719,
-      "required": true
-    },
-    {
       "projectID": 61811,
       "fileID": 2636565,
-      "required": true
-    },
-    {
-      "projectID": 274259,
-      "fileID": 2649772,
       "required": true
     },
     {
@@ -115,18 +85,8 @@
       "required": true
     },
     {
-      "projectID": 67504,
-      "fileID": 2478952,
-      "required": true
-    },
-    {
       "projectID": 250398,
       "fileID": 2522248,
-      "required": true
-    },
-    {
-      "projectID": 239197,
-      "fileID": 2639477,
       "required": true
     },
     {
@@ -134,11 +94,6 @@
       "fileID": 2562139,
       "required": true
     },
-    {
-      "projectID": 221826,
-      "fileID": 2666900,
-      "required": true
-    }
     {
       "projectID": 238891,
       "fileID": 2657343,
